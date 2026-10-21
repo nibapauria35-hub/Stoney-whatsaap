@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Stoney-whatsaap",
+    "slug": "Stoney-whatsaap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.stoney.whatsaap"
+    },
+    "ios": {
+      "bundleIdentifier": "com.stoney.whatsaap"
+    },
+    "platforms": ["android", "ios"],
+    "sdkVersion": "51.0.0"
+  }
+}
